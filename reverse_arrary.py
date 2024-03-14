@@ -11,3 +11,6 @@ def rever_arr(temp):
         reverse_arr = np.append(reverse_arr, temp[len_arr])
     # Return the reversed array
     return reverse_arr
+
+##there is an easier way ----P
+print(arr_name[::-1])
